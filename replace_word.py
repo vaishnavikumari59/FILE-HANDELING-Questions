@@ -1,0 +1,6 @@
+file_1=open('demo.txt','r')
+a=input('enter word to be replaced')
+b=input('enter the replacing word')
+s=file_1.read()
+a=s.replace(a,b)
+print(a)
