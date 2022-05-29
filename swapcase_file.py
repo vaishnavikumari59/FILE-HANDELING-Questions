@@ -1,0 +1,6 @@
+file_1 = open("demo.txt",'r')
+file_2 = open("swap.txt",'w')
+text=file_1.read()
+c = text.swapcase()
+swap = file_2.write(c)
+print(c)
