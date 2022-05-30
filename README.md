@@ -1,4 +1,4 @@
 # FILE-HANDELING-Questions
 
-Defination:
+Definition:
 The techniques and operations which are necessary for file management together is known as file handeling.
